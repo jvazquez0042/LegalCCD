@@ -1,0 +1,28 @@
+Generando archivo sintético de 1 MB ...
+  SHA-256      1 MB  mediana=0.0009s (IC95 ±0.0000)  throughput=1146.9 MB/s
+  SHA-512      1 MB  mediana=0.0009s (IC95 ±0.0000)  throughput=1066.8 MB/s
+  SHA-1        1 MB  mediana=0.0006s (IC95 ±0.0000)  throughput=1810.4 MB/s
+  MD5          1 MB  mediana=0.0014s (IC95 ±0.0000)  throughput=736.5 MB/s
+Generando archivo sintético de 10 MB ...
+  SHA-256     10 MB  mediana=0.0040s (IC95 ±0.0000)  throughput=2481.2 MB/s
+  SHA-512     10 MB  mediana=0.0064s (IC95 ±0.0000)  throughput=1561.9 MB/s
+  SHA-1       10 MB  mediana=0.0041s (IC95 ±0.0001)  throughput=2416.3 MB/s
+  MD5         10 MB  mediana=0.0124s (IC95 ±0.0000)  throughput=805.2 MB/s
+Generando archivo sintético de 100 MB ...
+  SHA-256    100 MB  mediana=0.0416s (IC95 ±0.0002)  throughput=2405.7 MB/s
+  SHA-512    100 MB  mediana=0.0657s (IC95 ±0.0003)  throughput=1522.1 MB/s
+  SHA-1      100 MB  mediana=0.0415s (IC95 ±0.0003)  throughput=2407.5 MB/s
+  MD5        100 MB  mediana=0.1265s (IC95 ±0.0025)  throughput=790.3 MB/s
+Generando archivo sintético de 500 MB ...
+  SHA-256    500 MB  mediana=0.2091s (IC95 ±0.0017)  throughput=2391.4 MB/s
+  SHA-512    500 MB  mediana=0.3313s (IC95 ±0.0008)  throughput=1509.3 MB/s
+  SHA-1      500 MB  mediana=0.2253s (IC95 ±0.0427)  throughput=2219.0 MB/s
+  MD5        500 MB  mediana=0.6623s (IC95 ±0.0056)  throughput=754.9 MB/s
+Generando archivo sintético de 1024 MB ...
+  SHA-256   1024 MB  mediana=0.4433s (IC95 ±0.0041)  throughput=2310.0 MB/s
+  SHA-512   1024 MB  mediana=0.7118s (IC95 ±0.0033)  throughput=1438.6 MB/s
+  SHA-1     1024 MB  mediana=0.4419s (IC95 ±0.0031)  throughput=2317.2 MB/s
+  MD5       1024 MB  mediana=1.3766s (IC95 ±0.0068)  throughput=743.9 MB/s
+
+Resultados guardados en ./benchmark_hashing_v2.csv
+Envía este CSV para generar las tablas y figuras de la tesis.

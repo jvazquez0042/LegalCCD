@@ -1,0 +1,1 @@
+experimentos.sh: line 23: python: command not found

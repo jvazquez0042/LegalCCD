@@ -1,0 +1,10 @@
+Batería de pruebas funcionales LegalCCD v0.2
+
+  [PASA] T1: Detección de manipulación (1 byte alterado)
+  [PASA] T2: Estabilidad del hash (10 cálculos idénticos)
+  [PASA] T3: Fragmentación y reconstrucción de SHA-512 (limite 64 B)
+  [PASA] T4: Minimización de datos en payload on-chain (RGPD)
+  [PASA] T5: Verificación de TxID inexistente (negativa controlada)
+  [PASA] T6: Cotejo negativo contra hash distinto (sin falsos positivos)
+
+6/6 casos superados. Tabla en ./pruebas_funcionales.csv

@@ -1,0 +1,56 @@
+==============================================================
+  LEGALCCD — REGISTRO DE VESTIGIO DIGITAL
+  Sistema de Cadena de Custodia Digital · v0.2
+--------------------------------------------------------------
+  REGISTRO DE DEMOSTRACIÓN (prueba de humo del prototipo).
+  Primera transacción anclada del sistema. No corresponde a
+  ningún caso real; el vestigio es un archivo sintético.
+==============================================================
+
+  IDENTIFICACIÓN DEL REGISTRO
+--------------------------------------------------------------
+  ID de registro               LCD-B285F8836901
+  Generado (UTC)               2026-07-07T06:40:07.890490+00:00
+
+  DATOS DEL CASO
+--------------------------------------------------------------
+  Número de caso               2026/EXP/HUMO
+
+  VESTIGIO DIGITAL
+--------------------------------------------------------------
+  Identificador del vestigio   VD-HUMO-001
+  Modo de entrada              Archivo
+
+  ARCHIVO
+--------------------------------------------------------------
+  Nombre (con extensión)       Hola.txt
+  Tamaño                       10 bytes
+  Tamaño (bytes exactos)       10
+
+  VALORES HASH
+--------------------------------------------------------------
+  SHA-256                      84d89877f0d4041efb6bf91a16f0248f2fd573e6af05c19f96bedb9f882f7882
+
+  ACTUANTE
+--------------------------------------------------------------
+  Nombre y apellidos           Juan Vázquez-Pérez
+  Rol                          Analista forense / Investigador
+  Nombre y apellidos           Angélica González-Arrieta
+  Rol                          Directora de investigación
+
+  ESTADO EN BLOCKCHAIN
+--------------------------------------------------------------
+  Red Cardano                  preprod
+  TxID                         0d143c673d997f3265fa2a6bfeb1faba32bb0fdc3853cfe31103eb06c2df661c
+  Estado                       confirmada
+  Verificación pública         https://preprod.cardanoscan.io/transaction/0d143c673d997f3265fa2a6bfeb1faba32bb0fdc3853cfe31103eb06c2df661c
+
+==============================================================
+  NOTA DE PRIVACIDAD
+--------------------------------------------------------------
+  Este reporte se almacena exclusivamente en local.
+  Los hashes son funciones unidireccionales: no permiten
+  reconstruir el contenido del vestigio original.
+  Los datos personales de este reporte NUNCA se envían
+  a la red blockchain.
+==============================================================

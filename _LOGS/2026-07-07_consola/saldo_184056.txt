@@ -1,0 +1,12 @@
+Wallet ya existente en ./claves/
+
+Red: preprod
+Dirección del sistema LegalCCD:
+
+  addr_test1vpdghr8h4tgf9n34wy0pr6gqlpl7ajqa5pulz57pjn4we2g72f4m8
+
+Fondéala con tADA (gratis) en el faucet oficial:
+  https://docs.cardano.org/cardano-testnets/tools/faucet
+  (selecciona 'Preprod Testnet', pega la dirección y solicita fondos)
+
+Saldo actual: 9994396232 lovelace (9994.396232 tADA)

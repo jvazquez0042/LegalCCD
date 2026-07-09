@@ -1,0 +1,7 @@
+caso,descripcion,clausula_iso_27037,resultado,detalle
+T1,Detección de manipulación (1 byte alterado),6.9 (integridad),PASA,hash original ebb83502fd89... != alterado 36f46657ce53...
+T2,Estabilidad del hash (10 cálculos idénticos),5.3.4 (reproducibilidad),PASA,10 cálculos -> 1 valor(es) distinto(s)
+T3,Fragmentación y reconstrucción de SHA-512 (limite 64 B),n/a (límite de protocolo Cardano),PASA,"2 fragmentos, reconstrucción exacta: True"
+T4,Minimización de datos en payload on-chain (RGPD),5.4.3 / RGPD art. 5.1.c,PASA,"claves payload: ['app', 'hashes', 'id', 'ts', 'v', 'vid']; datos personales presentes: False"
+T5,Verificación de TxID inexistente (negativa controlada),6.9 (verificabilidad),PASA,exito=False; mensaje=TxID no encontrado en la red (aún sin confirmar o inexistent
+T6,Cotejo negativo contra hash distinto (sin falsos positivos),6.9 (integridad),PASA,recuperado 84d89877f0d4... != falso ffffffffffff...

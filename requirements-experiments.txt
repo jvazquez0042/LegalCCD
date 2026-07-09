@@ -1,0 +1,5 @@
+# Dependencias adicionales para reproducir las figuras del artículo
+# (los scripts genera_figuras.py / generar_figuras.py).
+# Instalar con: pip install -r requirements-experiments.txt
+matplotlib>=3.8
+numpy>=1.26
