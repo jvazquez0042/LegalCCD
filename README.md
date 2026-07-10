@@ -67,6 +67,9 @@ medir_fee_payload.py      Fee-vs-payload-size series (deterministic cost)
 pruebas_funcionales.py    Functional and negative tests, traceable to ISO/IEC 27037
 medir_verificacion_hash.py  End-to-end verification with on-chain hash recovery
 _LOGS/               Raw console logs and CSV datasets from the campaign
+verificacion_hash_mediciones_cardano.csv     End-to-end verification of the 30 pilot records
+verificacion_hash_mediciones_cardano_v2.csv  End-to-end verification of the 75 session records
+                                             (full SHA-256 re-comparison); 105/105 verified in total
 REGISTROS/           Example custody record (first anchored transaction)
 ```
 
