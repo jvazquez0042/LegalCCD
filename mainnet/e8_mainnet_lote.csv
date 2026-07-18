@@ -1,0 +1,2 @@
+n_evidencias,rep,exito,txid,fee_lovelace,bytes_serializados,fee_por_evidencia,t_envio_s,t_confirmacion_s,bloque,error
+10,1,True,04c40e553041611bd58e3a8a5098ee43782f11982d1e2bc9d24159bc4145b512,203517,1094,20352,0.616,11.046,13687796,

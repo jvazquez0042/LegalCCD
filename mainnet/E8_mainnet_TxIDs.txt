@@ -1,0 +1,44 @@
+LegalCCD — External-validation campaign on the Cardano mainnet (metadata label 1984)
+Complete list of transaction identifiers. Verifiable at https://cardanoscan.io/transaction/<txid>
+====================================================================================================
+group                      txid                                                             block
+anchor_session_afternoon   191b4ff521d9c52b20158a580f281d123a279efeda966b0eb25e78cd4f51fb47 13686821
+anchor_session_afternoon   ce39381098838af08a184127116a58d0f58f83d7922b3013da0401fd0b750861 13686822
+anchor_session_afternoon   0c8ad7ceb8fa09312125204e1be604c4b4ec4b0c3ef9e94b392db2448cace0e7 13686825
+anchor_session_afternoon   88c4805220465cef5f578489cb8d70029ae89680c18627d5bc2cd9e46b5cb77d 13686828
+anchor_session_afternoon   80e26b62cac4b989f6d850df50b8553cda05349bd8a62816b050a30d2d5cfcb2 13686833
+anchor_session_afternoon   0f3bc4439869a02a3677ed2ae9b5861013aad4cf6a6371306606da80a1fa12b4 13686840
+anchor_session_afternoon   874169284b895864bf892a13b76c7517aa69a4baa6e3bb578dd5a1aeb7a9387e 13686844
+anchor_session_afternoon   76bd2e78d282af50331937e2d6030a3f08c6ce99c2a8af80d5c409392b59122f 13686850
+anchor_session_afternoon   a5b6125e5c0b17c33d031879ff963c0cf7619539c989ad49240947605dbcbd57 13686856
+anchor_session_afternoon   f5a20c723e9a9a20c5b7588c4be3918862d727f84806d8b052d017cd0addd174 13686861
+anchor_session_night       d91baa8611e0b355ac13d4582938808de1e2b7ae7ad81b8948d1c1dac9671bfa 13687723
+anchor_session_night       bd410eea42b30218ffb69c5733a75bdd0316c5cfe9e8109a359c6852db4f2a4f 13687729
+anchor_session_night       da23693e98734133b535a163abb03183a579809bd0082db56b40bb23019e0233 13687733
+anchor_session_night       993804c1cb1639e5d7a209485ec02a740b86cc9d07a6fcdc2fee38de94c431fa 13687736
+anchor_session_night       d8250baa5701f3a5822e01abe825209ae1a04f5498810ed7d303c18a0c92d97b 13687741
+anchor_session_night       c2f5511ee2c97a1b8ea20aaeb3859fca463c6fd94f65d4fc5db75b5e2f7f88f1 13687745
+anchor_session_night       ca8d73eb62fd4ca875cc786e7fe3198ffd0d291f73e051b3e6967e056efee5e4 13687747
+anchor_session_night       ff9d5d7abaecb229eb0f4c9a43b3225cdcdcd5038254e37c986d79194e4aaee7 13687752
+anchor_session_night       078c21064b1cbbeb35f09d10b3f1848a132b76a8fc67e37bfd5f05e19ed5e0e9 13687756
+anchor_session_night       381469cc086365521923b9a6047ce3e1abf4865f25f8123631132a019283dab4 13687760
+anchor_session_morning     36e1e8f35ea12e4d237d878bf4fcf9f8709714edc041807115121f42ea13b356 13688882
+anchor_session_morning     34c089bf86b09b5dc13f15e690455e36507126a056ba23d38f1da36b26740fec 13688885
+anchor_session_morning     a8fc6e6eaabe7dc9121b2449722ab37e5326e6167bc07adf696696e8eeeff5fe 13688891
+anchor_session_morning     f76f13d52d48e1347a51f18f9caa41efa5d68bb5bef1c4bdd4893a364f395654 13688897
+anchor_session_morning     251fc121698a51624152f9892251005b4cf782dfdf5a9cdb39614c617d6589bd 13688900
+anchor_session_morning     44f0e539aaf44b661319dde43d8b7de33b574467ea22bdf58fa4830387de76df 13688904
+anchor_session_morning     7448037b4cf643ec03a21be62ba85fee79740cc8bdb9e4358e37e9cdf1f9949e 13688906
+anchor_session_morning     d543898c693685df4d535091e9249a73acb323b3371a4c8966693d7511279c02 13688910
+anchor_session_morning     c2a6bf27c15c333acffbe218e297bc187cea77c2406c265562fd48142df65c02 13688913
+anchor_session_morning     2cddd3220f7ba67c22709a64b8e50da7aa8bee892fcc01de721601fb71ca8f4f 13688916
+batch_N10                  04c40e553041611bd58e3a8a5098ee43782f11982d1e2bc9d24159bc4145b512 13687796
+fee_payload_series         365bb5898da797155af975388b19f6307186b709aa7e392d3dcec5dc490c76aa 13689150
+fee_payload_series         eede934af4aacd84df6a393770b4bf94814c029078248fc4238121b1272dfa2f 13689154
+fee_payload_series         669cee97c1f725477edf963f83bd0d243c047169eefefaa821d1c8b47c55205b 13689157
+fee_payload_series         e0187bbdd24ed22ed9fe5f0587b883efc97df597a661fa55ea8f830e0df6433d 13689160
+fee_payload_series         596f0e1f634b90f5be229192408b074c4fbd0835de07d26f598e7b69d7840d51 13689162
+fee_payload_series         1d999b6873adc27aed09ffbc12f5027b7676fd52f464ce5a011310e4d69d8431 13689163
+hash_to_hash_demo          ae68b478060344b4da1e005329a2e8f26c28ac86b251b5abb87fdd43a8bcac65 13689016
+
+Total: 38 transactions
